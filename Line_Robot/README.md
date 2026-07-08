@@ -1,0 +1,1 @@
+# Creating a basic line following robot from a kit on Amazon. The PCB was already created and instructions included. I learned to solder each component according to instructions and tested the robot on a custom track. I breifly documented the steps (See PDF).
