@@ -6,6 +6,10 @@ Here I came up with an idea to recharge AA Lithium-ion batteries using old alkal
 
 ![Usable Voltage vs Internal Resistance](./images/usable_voltage_vs_internal_resistance.pdf)
 
+<iframe src="./images/usable_voltage_vs_internal_resistance.pdf" width="100%" height="600px">
+  This browser does not support PDFs. Please download the PDF to view it: <a href="./images/usable_voltage_vs_internal_resistance.pdf">Download PDF</a>
+</iframe>
+
 Using the loaded and unloaded voltage, plus a 10 ohm resisitor I was able to calculate which batteries were usable(above threshold) and how many in series I would need to power something small (0.1 - 0.5 amps of current draw).
 
 ![Loaded Voltage Measurement](./images/v_load_resistor.jpeg)
