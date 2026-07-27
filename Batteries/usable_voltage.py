@@ -29,8 +29,8 @@ plt.ylabel("Usable Voltage (V)")
 plt.ylim(0, 1.6)
 plt.grid(True, linestyle=":", alpha=0.7)
 plt.legend()
-plt.show()
 plt.savefig("usable_voltage_vs_internal_resistance.pdf")
+plt.show()
 
 #%%
 # inputs

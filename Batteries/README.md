@@ -13,10 +13,13 @@ Knowing the voltage threshold for a specific device you can estimate how much li
 
 Using the loaded and unloaded voltage, plus a 10 ohm resisitor I was able to calculate which batteries were usable(above threshold) and how many in series I would need to power smaller electronics (0.1A - 0.5A of current draw).
 
+![Recycling Batteries in Series](./images/battery_series.png)
 
 I soldered a 10ohm resistor to the terminals of the battery housing to get an accurate current draw.
+
 ![Loaded Voltage Measurement](./images/v_load_resistor.jpeg)
 
 I used the housing of the line following robot for the larger AA batteries.
+
 ![Modifying Line Following Robot Battery Housing](./images/v_load_housing.jpeg)
 
