@@ -4,8 +4,6 @@ Here I came up with an idea to recharge AA Lithium-ion batteries using old alkal
 
 * [usable_voltage.py](https://github.com/007kev/STEP/blob/main/Batteries/usable_voltage.py)
 
-![Usable Voltage vs Internal Resistance](./images/usable_voltage_vs_internal_resistance.pdf)
-
 <iframe src="./images/usable_voltage_vs_internal_resistance.pdf" width="100%" height="600px">
   This browser does not support PDFs. Please download the PDF to view it: <a href="./images/usable_voltage_vs_internal_resistance.pdf">Download PDF</a>
 </iframe>
