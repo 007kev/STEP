@@ -1,10 +1,10 @@
-# Small Pojects 💡
+# Small Projects 💡
 These are projects I have come up with for fun.
 
 
 ## Strawberry Nightlight 🍓
 
-I designed and built a nightlight for my girlfriend. Using a multimeter's diode test mode, I measured the forward voltages ($V_{f}$) and calculated the required resistors values using ohm's law.
+I designed and built a nightlight for my girlfriend. Using a multimeter's diode test mode, I measured the forward voltages ($V_{f}$) and calculated the required resistors values using Ohm's law.
 
 ![Strawberry Nightlight](./images/working_strawberry.jpeg)
 
@@ -16,7 +16,7 @@ $$
 \text{Green LED: } V_{f} = 2.264\text{V} \to 136.8\Omega
 $$
 
-The calculation assumes a 5V supply line.
+The calculation assumes a 5V supply line and normal LED current ratings; 20mA.
 
 Each LED is wired in series with an available current-limiting resistor (100Ω for green LEDs and 220Ω for red LEDs), with all branches then connected in parallel.
 
@@ -27,19 +27,19 @@ For autodarkening, I created a voltage divider using a photoresistor which has v
 
 ## LED Birthday Candles 🎂
 
-I designed and built an electronic alternative to birthday candles using an ESP32, a couple LEDs, a thermistor, and sound sensor module (microphone). 
+I designed and built an electronic alternative to birthday candles using an ESP32, a couple of LEDs, a thermistor, and sound sensor module (microphone). 
 
 ![LED Candle](./images/led_candle.jpeg)
 ![LED Schematic](./images/led_candle_schematic.jpeg)
 
-The visual wiring is easy to follow and I connected a button incase the thermistor didn't work. The "candles" can be lit and blown out like real wax candles! 🕯️
+The visual wiring is easy to follow and I connected a button in case the thermistor didn't work. The "candles" can be lit and blown out like real wax candles! 🕯️
 
 ![LED Candle gif](./images/ezgif-594a0f7ad8f85757.gif)
 
-I wanted this to be placed on top an actual cake so I connected 4 AAA batteries to a USB-C cable to make this project portable.
+I wanted this to be placed on top of an actual cake so I connected 4 AAA batteries to a USB-C cable to make this project portable.
 
 ![LED Candle Portable](./images/portable.jpeg)
 ![LED Candle Working](./images/led_candle_working.png)
 
-Lastly, the code for the ESP32 is using the Arduino IDE and I have it posted;
+Lastly, the code for the ESP32 is using the Arduino IDE and I have it posted:
 * [here](https://github.com/007kev/STEP/tree/main/Small_Projects)
