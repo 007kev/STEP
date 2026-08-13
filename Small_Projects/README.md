@@ -32,7 +32,7 @@ I designed and built an electronic alternative to birthday candles using an ESP3
 ![LED Candle](./images/led_candle.jpeg)
 ![LED Schematic](./images/led_candle_schematic.jpeg)
 
-The visual wiring is easy to follow and I connected a button incase the thermistor didn't work.
+The visual wiring is easy to follow and I connected a button incase the thermistor didn't work. The "candles" can be lit and blown out like real wax candles! 🕯️
 
 ![LED Candle gif](./images/ezgif-594a0f7ad8f85757.gif)
 
