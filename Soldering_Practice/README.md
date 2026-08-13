@@ -2,7 +2,7 @@
 
 Since I enjoy working with my hands, soldering came easy to me. However, I am still learning to perfect my skills by practicing. I started by working on these kits from Amazon.
 
-## Line Following Robot 🤖
+### Line Following Robot 🤖
 
 The PCB was already created and instructions included. I learned to solder each component according to instructions and tested the robot on a custom track. I breifly documented the steps.
 
@@ -10,7 +10,7 @@ The PCB was already created and instructions included. I learned to solder each 
 ![Fully Assembled](./images/close_up.jpeg)
 ![It works!](./images/working.jpeg)
 
-## AM Radio 📻
+### AM Radio 📻
 
 This AM Radio kit is from Amazon. Componenets were assembled and soldered according to instruction manual.
 
@@ -18,6 +18,6 @@ This AM Radio kit is from Amazon. Componenets were assembled and soldered accord
 ![Soldering](./images/soldering.gif)
 ![Increasing volume and drawing more power](./images/working.png)
 
-## Bluetooth Speaker 🔊
+### Bluetooth Speaker 🔊
 
 LOADING...
