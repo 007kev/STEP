@@ -42,4 +42,4 @@ I wanted this to be placed on top of an actual cake so I connected 4 AAA batteri
 ![LED Candle Working](./images/led_candle_working.png)
 
 Lastly, the code for the ESP32 is using the Arduino IDE and I have it posted:
-* [here](https://github.com/007kev/STEP/tree/main/Small_Projects)
+* [here](https://github.com/007kev/STEP/blob/main/Small_Projects/candles.ino)
