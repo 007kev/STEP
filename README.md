@@ -7,3 +7,4 @@ Welcome to my engineering portfolio tracking my technical progression and docume
 * [Soldering Practice](./Soldering_Practice)
 * [Learning About Batteries](./Batteries/) - Internal Resistance, Capacity, and Usable Voltage.
 * [First PCB Projects](./Small_Projects/) - Voltage Divider, ESP32, and Prototyping.
+* [First 3D Prints](./3D_prints/) - OpenSCAD
